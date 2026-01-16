@@ -1,4 +1,3 @@
-
 import { getLocalStorage } from "./utils.mjs";
 
 function renderCartContents() {
